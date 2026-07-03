@@ -1,2 +1,1 @@
-# vbased
-Code for [VBased: Revisiting Architectural Design for Simple Linear Attention Models in Vision]
+Code will be released after some cleanup.
